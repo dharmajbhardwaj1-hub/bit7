@@ -1,0 +1,1 @@
+// google strategy code examples
